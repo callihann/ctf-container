@@ -8,26 +8,28 @@ Below are the tools and resources included
 
 ### Pwn
 
-| Name       | Link                                |
-| ---------- | ----------------------------------- |
-| Metasploit | [link](https://www.metasploit.com/) |
+| Name       |                Link                 |      Usage |
+| :--------- | :---------------------------------: | ---------: |
+| Metasploit | [link](https://www.metasploit.com/) | msfconsole |
 
 ### Reversing
 
-| Name     | Link                                         |
-| -------- | -------------------------------------------- |
-| Foremost | [link](https://www.kali.org/tools/foremost/) |
+| Name     |                     Link                     |       Usage |
+| :------- | :------------------------------------------: | ----------: |
+| Foremost | [link](https://www.kali.org/tools/foremost/) | foremost -h |
 
 ### Forensics
 
 ### Web
 
+| Name |                 Link                 |       Usage |
+| :--- | :----------------------------------: | ----------: |
+| ZMap | [link](https://github.com/zmap/zmap) | foremost -h |
+
 ### Crypto
 
 ### Misc
 
-| Name      | Link                                           |
-| --------- | ---------------------------------------------- |
-| Wordlists | [link](https://github.com/kkrypt0nn/wordlists) |
-|           |                                                |
-|           |                                                |
+| Name      |                      Link                      |               Usage |
+| :-------- | :--------------------------------------------: | ------------------: |
+| Wordlists | [link](https://github.com/kkrypt0nn/wordlists) | /opt/misc/wordlists |

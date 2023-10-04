@@ -25,6 +25,8 @@ RUN apt-get install -y sonic-visualiser
 RUN apt-get install -y xxd 
 RUN apt-get install -y atomicparsley
 RUN apt-get install -y forensics-all 
+RUN apt-get install -y curl wget
+RUN apt-get install -y zmap 
 RUN apt install python3-magic
 RUN apt install python3-tqdm
 
