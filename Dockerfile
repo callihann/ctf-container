@@ -28,10 +28,10 @@ RUN apt-get install -y forensics-all
 RUN apt install python3-magic
 RUN apt install python3-tqdm
 
-# COPY install /tmp/install
-# RUN chmod a+x /tmp/install/*.sh && \
-#     for i in /tmp/install/*.sh;do echo $i && $i;done && \
-#     rm -rf /tmp/install
+COPY install /tmp/install
+RUN chmod a+x /tmp/install/*.sh && \
+    for i in /tmp/install/*.sh;do echo $i && $i;done && \
+    rm -rf /tmp/install
 
 COPY scripts /opt/scripts
 RUN find /opt/scripts -name '*.sh' -exec chmod a+x {} + && \
