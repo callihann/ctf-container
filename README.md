@@ -22,22 +22,26 @@ Below are the tools and resources included
 
 ### Networking
 
+| Name     |                       Link                       |       Usage |
+| :------- | :----------------------------------------------: | ----------: |
+| Recon-ng | [link](https://github.com/lanmaster53/recon-ng/) | recon-ng -h |
+
 ### Services
 
 ### Steganography
 
 ### Web
 
-| Name |                 Link                 |       Usage |
-| :--- | :----------------------------------: | ----------: |
+| Name |                 Link                 |   Usage |
+| :--- | :----------------------------------: | ------: |
 | ZMap | [link](https://github.com/zmap/zmap) | zmap -h |
 
 ### Crypto
 
 ### Bruteforcers
 
-| Name |                 Link                 |       Usage |
-| :--- | :----------------------------------: | ----------: |
+| Name    |                 Link                 |      Usage |
+| :------ | :----------------------------------: | ---------: |
 | hashcat | [link](https://hashcat.net/hashcat/) | hashcat -h |
 
 ### Misc
