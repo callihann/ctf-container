@@ -30,11 +30,15 @@ Below are the tools and resources included
 
 | Name |                 Link                 |       Usage |
 | :--- | :----------------------------------: | ----------: |
-| ZMap | [link](https://github.com/zmap/zmap) | foremost -h |
+| ZMap | [link](https://github.com/zmap/zmap) | zmap -h |
 
 ### Crypto
 
 ### Bruteforcers
+
+| Name |                 Link                 |       Usage |
+| :--- | :----------------------------------: | ----------: |
+| hashcat | [link](https://hashcat.net/hashcat/) | hashcat -h |
 
 ### Misc
 
