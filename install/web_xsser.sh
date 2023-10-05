@@ -1,1 +1,0 @@
-apt-get install python3-pycurl python3-bs4 python3-geoip python3-gi python3-cairocffi python3-selenium firefoxdriver

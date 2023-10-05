@@ -20,6 +20,10 @@ Below are the tools and resources included
 
 ### Forensics
 
+| Name     |                     Link                      |             Usage |
+| :------- | :-------------------------------------------: | ----------------: |
+| oletools | [link](https://github.com/decalage2/oletools) | see documentation |
+
 ### Networking
 
 | Name     |                       Link                       |       Usage |
@@ -46,6 +50,8 @@ Below are the tools and resources included
 
 ### Misc
 
-| Name      |                      Link                      |               Usage |
-| :-------- | :--------------------------------------------: | ------------------: |
-| Wordlists | [link](https://github.com/kkrypt0nn/wordlists) | /opt/misc/wordlists |
+| Name       |                       Link                        |               Usage |
+| :--------- | :-----------------------------------------------: | ------------------: |
+| Wordlists  |  [link](https://github.com/kkrypt0nn/wordlists)   | /opt/misc/wordlists |
+| Pwntools   |   [link](https://docs.pwntools.com/en/stable/)    |  from pwn import \* |
+| CTF-Katana | [link](https://github.com/JohnHammond/ctf-katana) |                link |
